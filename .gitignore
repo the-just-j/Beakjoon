@@ -1,0 +1,21 @@
+# --- IDE 설정 (CLion, PyCharm 공통) ---
+.idea/
+
+# --- C / C++ 관련 ---
+cmake-build-*/
+*.exe
+*.out
+*.obj
+*.o
+
+# --- Python 관련 ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# --- macOS 시스템 파일 ---
+.DS_Store
+._*
