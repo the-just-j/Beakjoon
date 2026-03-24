@@ -8,7 +8,7 @@ add_executable(Beakjoon Bronze/B5_2557.cpp
         Bronze/B5_1001.cpp
         Bronze/B5_10998.cpp
         Bronze/B5_1008.cpp
-        B5_10869.cpp
+        Bronze/B5_10869.cpp
         Bronze/B5_10926.cpp
         Bronze/B5_18108.cpp
         Bronze/B5_10430.cpp
